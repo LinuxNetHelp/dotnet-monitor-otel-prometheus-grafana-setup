@@ -1,5 +1,5 @@
-**Monitoring .NET API 5xx Alerts with OpenTelemetry, Prometheus, and Grafana (Shell Script)
-**
+# Monitoring .NET API 5xx Alerts with OpenTelemetry, Prometheus, and Grafana (Shell Script)
+
 This project provides a **shell-script-based stack** to monitor a **.NET 9 minimal API** for **5xx errors** using:
 
 * **OpenTelemetry** (Prometheus exporter)

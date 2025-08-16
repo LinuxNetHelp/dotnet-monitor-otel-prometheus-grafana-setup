@@ -138,7 +138,7 @@ rate(http_server_request_duration_seconds_count[1m])
 ## 📺 Credits
 
 Prepared for **LinuxNetHelp YouTube tutorials**.
-👉 Watch tutorials here: [https://www.youtube.com/@LinuxNetHelp](https://www.youtube.com/@LinuxNetHelp)
+👉 Watch tutorials here: [https://www.youtube.com/@LinuxNetHelp](https://www.youtube.com/watch?v=vtiPY78G2x8&ab_channel=LinuxNetHelp)
 
 ...
 **License:** MIT
